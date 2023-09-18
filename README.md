@@ -9,6 +9,7 @@ OR
 
 
 After Login:
-![image](https://github.com/Habib16051/Auth0-with-Google-Authentication/assets/39822204/e71132b1-b1cb-41a9-9595-a6f7f7e56f5d)
+![image](https://github.com/Habib16051/Auth0-with-Google-Authentication/assets/39822204/86e4433f-1c7e-4705-ba06-815cfe98c793)
+
 
 
